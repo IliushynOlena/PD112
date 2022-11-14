@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp3", "WinFormsApp3\WinFormsApp3.csproj", "{9A547484-2C94-47B3-A7A1-02751C2FE6FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomasNumber", "RandomasNumber\RandomasNumber.csproj", "{966690D5-65DB-4837-B20F-7BA7B36BCCB2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_ButtonsControls", "03_ButtonsControls\03_ButtonsControls.csproj", "{B6BC285A-EF15-4E9A-A198-89086D370188}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_RangeControls_Indicators", "04_RangeControls_Indicators\04_RangeControls_Indicators.csproj", "{2BBFBA94-50A5-4455-8B01-D0154BF154CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Indicators", "05_Indicators\05_Indicators.csproj", "{5FCD910E-66FD-43D4-BB2A-9BC164F0C880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Constrols_Lists", "06_Constrols_Lists\06_Constrols_Lists.csproj", "{4B54177F-69DA-43BB-8C89-78D088232AF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A547484-2C94-47B3-A7A1-02751C2FE6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A547484-2C94-47B3-A7A1-02751C2FE6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A547484-2C94-47B3-A7A1-02751C2FE6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A547484-2C94-47B3-A7A1-02751C2FE6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966690D5-65DB-4837-B20F-7BA7B36BCCB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966690D5-65DB-4837-B20F-7BA7B36BCCB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966690D5-65DB-4837-B20F-7BA7B36BCCB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966690D5-65DB-4837-B20F-7BA7B36BCCB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6BC285A-EF15-4E9A-A198-89086D370188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BC285A-EF15-4E9A-A198-89086D370188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BC285A-EF15-4E9A-A198-89086D370188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BC285A-EF15-4E9A-A198-89086D370188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BBFBA94-50A5-4455-8B01-D0154BF154CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BBFBA94-50A5-4455-8B01-D0154BF154CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BBFBA94-50A5-4455-8B01-D0154BF154CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BBFBA94-50A5-4455-8B01-D0154BF154CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FCD910E-66FD-43D4-BB2A-9BC164F0C880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCD910E-66FD-43D4-BB2A-9BC164F0C880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCD910E-66FD-43D4-BB2A-9BC164F0C880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCD910E-66FD-43D4-BB2A-9BC164F0C880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B54177F-69DA-43BB-8C89-78D088232AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B54177F-69DA-43BB-8C89-78D088232AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B54177F-69DA-43BB-8C89-78D088232AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B54177F-69DA-43BB-8C89-78D088232AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C79DA821-B031-4173-AFDA-2C4AD92C5035}
+	EndGlobalSection
+EndGlobal
