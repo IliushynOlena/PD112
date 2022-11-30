@@ -147,8 +147,7 @@ namespace _11_Graphics_GDI
             }
             else if(type == TypeShape.Line)
             {
-                shape = new MyLine(color, start, end);
-               
+                shape = new MyLine(color, start, end);               
             }
             shape.Draw(g);
             shapes.Add(shape);
